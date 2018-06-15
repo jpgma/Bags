@@ -1,0 +1,163 @@
+version: 11
+width:1600 height:900
+color mode: 0
+precision: 150
+	-type:PROP_COMPRESSION(17) size:1
+		c:1
+	-type:PROP_RESOLUTION(19) size:8
+	-type:PROP_TATTOO(20) size:4
+	-type:PROP_UNIT(22) size:4
+		unit:inches
+	-type:PROP_VECTORS(25) size:822
+		v:1, aindex:3, npaths:4
+			[platform_01_collision] v:1, nparasites:0, nstrokes:1
+				bezier:1, closed:1, npoints:12 nf:2
+			[platform_00_collision] v:1, nparasites:0, nstrokes:1
+				bezier:1, closed:1, npoints:12 nf:2
+			[ground_collision] v:1, nparasites:0, nstrokes:1
+				bezier:1, closed:1, npoints:12 nf:2
+			[level_bounds] v:1, nparasites:0, nstrokes:1
+				bezier:1, closed:1, npoints:12 nf:2
+	-type:PROP_PARASITES(21) size:696
+		n:gimp-image-metadata f:00000001000000000000000000000000 l:354
+		n:gimp-comment f:00000001000000000000000000000000 l:1
+		n:gimp-image-grid f:00000001000000000000000000000000 l:256
+	-type:PROP_END(0) size:0
+layer offsets:
+	-offset:1677
+	-[platform_01] w:320 h:90 cm:1
+	-layer_props:
+		-type:PROP_ACTIVE_LAYER(2) size:0
+		-type:PROP_OPACITY(6) size:4
+		-type:PROP_FLOAT_OPACITY(33) size:4
+		-type:PROP_VISIBLE(8) size:4
+		-type:PROP_LINKED(9) size:4
+		-type:PROP_COLOR_TAG(34) size:4
+			c:08000000
+			foreground!
+		-type:PROP_LOCK_CONTENT(28) size:4
+		-type:PROP_LOCK_ALPHA(10) size:4
+		-type:PROP_LOCK_POSITION(32) size:4
+		-type:PROP_APPLY_MASK(11) size:4
+		-type:PROP_EDIT_MASK(12) size:4
+		-type:PROP_SHOW_MASK(13) size:4
+		-type:PROP_OFFSETS(15) size:8
+		-type:PROP_MODE(7) size:4
+		-type:PROP_BLEND_SPACE(37) size:4
+		-type:PROP_COMPOSITE_SPACE(36) size:4
+		-type:PROP_COMPOSITE_MODE(35) size:4
+		-type:PROP_TATTOO(20) size:4
+		-type:PROP_END(0) size:0
+	ho:1945 lmo:0
+	hierarchy: w:320 h:90 bpp:4
+		level: w:320 h:90
+		should be 5 by 2 tiles
+[64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x26] [64x26] [64x26] [64x26] [64x26] 
+
+	-offset:3699
+	-[platform_00] w:320 h:90 cm:1
+	-layer_props:
+		-type:PROP_OPACITY(6) size:4
+		-type:PROP_FLOAT_OPACITY(33) size:4
+		-type:PROP_VISIBLE(8) size:4
+		-type:PROP_LINKED(9) size:4
+		-type:PROP_COLOR_TAG(34) size:4
+			c:08000000
+			foreground!
+		-type:PROP_LOCK_CONTENT(28) size:4
+		-type:PROP_LOCK_ALPHA(10) size:4
+		-type:PROP_LOCK_POSITION(32) size:4
+		-type:PROP_APPLY_MASK(11) size:4
+		-type:PROP_EDIT_MASK(12) size:4
+		-type:PROP_SHOW_MASK(13) size:4
+		-type:PROP_OFFSETS(15) size:8
+		-type:PROP_MODE(7) size:4
+		-type:PROP_BLEND_SPACE(37) size:4
+		-type:PROP_COMPOSITE_SPACE(36) size:4
+		-type:PROP_COMPOSITE_MODE(35) size:4
+		-type:PROP_TATTOO(20) size:4
+		-type:PROP_END(0) size:0
+	ho:3959 lmo:0
+	hierarchy: w:320 h:90 bpp:4
+		level: w:320 h:90
+		should be 5 by 2 tiles
+[64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x26] [64x26] [64x26] [64x26] [64x26] 
+
+	-offset:5815
+	-[ground] w:1600 h:115 cm:1
+	-layer_props:
+		-type:PROP_OPACITY(6) size:4
+		-type:PROP_FLOAT_OPACITY(33) size:4
+		-type:PROP_VISIBLE(8) size:4
+		-type:PROP_LINKED(9) size:4
+		-type:PROP_COLOR_TAG(34) size:4
+			c:08000000
+			foreground!
+		-type:PROP_LOCK_CONTENT(28) size:4
+		-type:PROP_LOCK_ALPHA(10) size:4
+		-type:PROP_LOCK_POSITION(32) size:4
+		-type:PROP_APPLY_MASK(11) size:4
+		-type:PROP_EDIT_MASK(12) size:4
+		-type:PROP_SHOW_MASK(13) size:4
+		-type:PROP_OFFSETS(15) size:8
+		-type:PROP_MODE(7) size:4
+		-type:PROP_BLEND_SPACE(37) size:4
+		-type:PROP_COMPOSITE_SPACE(36) size:4
+		-type:PROP_COMPOSITE_MODE(35) size:4
+		-type:PROP_TATTOO(20) size:4
+		-type:PROP_END(0) size:0
+	ho:6070 lmo:0
+	hierarchy: w:1600 h:115 bpp:4
+		level: w:1600 h:115
+		should be 25 by 2 tiles
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] [64x51] 
+
+	-offset:12628
+	-[sky] w:1600 h:900 cm:0
+	-layer_props:
+		-type:PROP_OPACITY(6) size:4
+		-type:PROP_FLOAT_OPACITY(33) size:4
+		-type:PROP_VISIBLE(8) size:4
+		-type:PROP_LINKED(9) size:4
+		-type:PROP_COLOR_TAG(34) size:4
+			c:01000000
+			background!
+		-type:PROP_LOCK_CONTENT(28) size:4
+		-type:PROP_LOCK_ALPHA(10) size:4
+		-type:PROP_LOCK_POSITION(32) size:4
+		-type:PROP_APPLY_MASK(11) size:4
+		-type:PROP_EDIT_MASK(12) size:4
+		-type:PROP_SHOW_MASK(13) size:4
+		-type:PROP_OFFSETS(15) size:8
+		-type:PROP_MODE(7) size:4
+		-type:PROP_BLEND_SPACE(37) size:4
+		-type:PROP_COMPOSITE_SPACE(36) size:4
+		-type:PROP_COMPOSITE_MODE(35) size:4
+		-type:PROP_TATTOO(20) size:4
+		-type:PROP_END(0) size:0
+	ho:12880 lmo:0
+	hierarchy: w:1600 h:900 bpp:3
+		level: w:1600 h:900
+		should be 25 by 15 tiles
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] [64x64] 
+[64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] [64x04] 
+
+channel offsets:
+	-offset:37546
+	-offset:0

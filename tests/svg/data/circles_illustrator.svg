@@ -1,0 +1,17 @@
+<svg id="svg8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1757.67 492.95">
+  <defs>
+    <linearGradient id="linear-gradient" x1="761.06" y1="886.26" x2="891.49" y2="886.26" gradientTransform="matrix(3.78, 0, 0, -3.78, -2244.1, 3596.11)" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="655.22" cy="745.52" r="65.21" gradientTransform="matrix(3.78, 0, 0, -3.78, -965.24, 3064.19)" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>circles_illustrator</title>
+  <g id="layer1">
+    <g id="g4836">
+      <circle id="lineargradient" cx="878.83" cy="246.48" r="246.48" style="fill: url(#linear-gradient)"/>
+      <circle id="radialgradient" cx="1511.19" cy="246.48" r="246.48" style="fill: url(#radial-gradient)"/>
+      <circle id="solid" cx="246.48" cy="246.48" r="246.48"/>
+    </g>
+  </g>
+</svg>
